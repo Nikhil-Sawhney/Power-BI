@@ -14,10 +14,22 @@ Creating a Dashboard, showing trends of unit consumption with total cost generat
 * Use of different visulizations to create a dashboard.
 
 # Few Insights gained from the analysis include:
-* At 186,245,327 (18.6M approximately) Water had the highest total consumption and was 71.95% higher than Gas which has lowest consumption at 2,553,088 (2.6M approximately ).
-* Total Consumption and Total Cost are positively correlated with each other.
-* Water accounted for 88.49% of Total Consumption.
-* Total Consumption and Total Cost diverged the most when the Energy type was Water, when Total Consumption were 175,439,135 (175M approximately) higher than Total Cost.
+
+* Water is the dominant resource used, but the cost remains stable despite fluctuations in consumption:
+Water consumption accounts for a significant portion (88.49%) of the total energy use. While water consumption fluctuates across years, with 2017 having the highest usage, the overall cost shows only a slight increase in 2019 compared to previous years. This suggests potential opportunities for conservation efforts to reduce water use without significantly impacting the budget.
+
+* Gas consumption and costs show a downward trend:
+Gas consumption is the lowest compared to water and electricity but has significantly decreased from 2016 to 2019.
+This decrease is reflected in the gas cost, which also shows a downward trend during the same period. This could be due to various factors, such as increased efficiency measures or a shift towards alternative energy sources for gas-powered activities.
+
+* Further analysis is needed to understand the factors behind these trends:
+While the water consumption data includes a breakdown by building, additional context like building types or activities could offer deeper insights into usage patterns.
+Similarly, understanding the reasons behind the decrease in gas consumption and cost would require further information, such as specific policy changes or infrastructure upgrades.
+
+* Additional insights can be gained by analyzing other aspects not shown in these images:
+Comparing energy consumption and costs across different locations (e.g., cities, regions) could reveal valuable insights into potential efficiency improvements or resource allocation needs.
+Analyzing the data by time of day or day of the week could help identify peak usage periods and potential areas for targeted conservation efforts.
+By delving deeper into the data and exploring these additional aspects, a more comprehensive picture of the energy consumption patterns can be established, leading to more informed decision-making towards efficient resource management and cost optimization.
 
 
 #  Check out whole Project Explanation in below link 
