@@ -2,18 +2,20 @@
 The dataset contains an excel file containing 
 
 # PROBLEM STATEMENT
-The company responsible for supplying energy (water, electricity, and gas) to various buildings across countries is facing challenges in effectively managing and optimizing energy distribution. They lack a comprehensive view of energy consumption patterns, leading to inefficiencies, high costs, and difficulties in meeting sustainability targets. They need a solution to monitor and analyze energy usage data across all buildings to identify areas for improvement, reduce waste, and ensure reliable and sustainable energy supply.
+Problem Statement: 
+A company responsible for supplying energy (water, electricity, and gas) to various buildings across different countries faces the challenge of effectively monitoring and managing energy consumption to ensure efficient operations and cost-effectiveness. However, without a centralized system to track and analyze energy usage data, the company struggles to identify trends, anomalies, and opportunities for improvement, leading to inefficiencies, increased costs, and potential service disruptions.
 
 # MY APPROACH
-My human resource analysis was more focused on Diversity and Inclusion in respect to the Gender, Race and Sexuality of the workforce to answer the business question.
+Creating a Dashboard, showing trends of unit consumption with total cost generated from it for different types of energy (water, electrcity and gas).
+
+# PROCESS INVOLVED
+* Use of Power Query to clean and transform raw data for analysis.
+* Creating some measures using DAX for the dashboard.
+* Use of different visulizations to create a dashboard.
 
 # Insights gained from the analysis include:
-* Evidence of a particular race dominating the workforce,
-* Likewise, the male gender dominates other genders,
-* Same pattern was found in the sexuality context within the company as most employees are heterosexuals,
-* Furthermore, the female employees and have smaller numbers in the managerial role and are non-existent in the director role compared to the male gender.
+* 
 
-These highlights are pointing to a possible bias within the company's culture.
 
 #  Check out whole Project Explanation in below link 
 ## 🔗 Links
