@@ -9,6 +9,7 @@ Creating a Dashboard, showing trends of unit consumption with total cost generat
 
 # Process Involved
 * Use of Power Query to clean and transform raw data for analysis.
+* Data Modeling to connect different tables using in power BI.
 * Creating some measures using DAX for the dashboard.
 * Use of different visulizations to create a dashboard.
 
