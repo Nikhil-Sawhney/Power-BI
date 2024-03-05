@@ -2,7 +2,6 @@
 The dataset contains an excel file containing 
 
 # Problem Statement
-Problem Statement: 
 A company responsible for supplying energy (water, electricity, and gas) to various buildings across different countries faces the challenge of effectively monitoring and managing energy consumption to ensure efficient operations and cost-effectiveness. However, without a centralized system to track and analyze energy usage data, the company struggles to identify trends, anomalies, and opportunities for improvement, leading to inefficiencies, increased costs, and potential service disruptions.
 
 # My Approach
