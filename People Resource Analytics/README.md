@@ -11,7 +11,8 @@ My human resource analysis was more focused on Diversity and Inclusion in respec
 * Evidence of a particular race dominating the workforce,
 * Likewise, the male gender dominates other genders,
 * Same pattern was found in the sexuality context within the company as most employees are heterosexuals,
-* Furthermore, the female employees and have smaller numbers in the managerial role and are non-existent in the director role compared to the male gender. These highlights are pointing to a possible bias within the company's culture.
+* Furthermore, the female employees and have smaller numbers in the managerial role and are non-existent in the director role compared to the male gender.
+These highlights are pointing to a possible bias within the company's culture.
 
 #  Check out whole Project Explanation in below link 
 ## 🔗 Links
