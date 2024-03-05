@@ -1,8 +1,8 @@
 # Project Title - People Resource Analytics
-* The dataset which contains an excel file containing 24 columns regarding employees information of the company.
+The dataset which contains an excel file containing 24 columns regarding employees information of the company.
 
 # PROBLEM STATEMENT
-* Over the past 10years, the company has experienced growth based on their increasing employees, the company's management wanted to gain insight into their company's culture, acceptance and inclusiveness, hiring and termination trend. This led to building a people analytics report.
+Over the past 10years, the company has experienced growth based on their increasing employees, the company's management wanted to gain insight into their company's culture, acceptance and inclusiveness, hiring and termination trend. This led to building a people analytics report.
 
 # MY APPROACH
 My human resource analysis was more focused on Diversity and Inclusion in respect to the Gender, Race and Sexuality of the workforce to answer the business question.
