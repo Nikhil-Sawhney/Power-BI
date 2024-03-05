@@ -2,7 +2,7 @@
 The dataset contains an excel file containing 
 
 # PROBLEM STATEMENT
-Problem Statement: The company responsible for supplying energy (water, electricity, and gas) to various buildings across countries is facing challenges in effectively managing and optimizing energy distribution. They lack a comprehensive view of energy consumption patterns, leading to inefficiencies, high costs, and difficulties in meeting sustainability targets. They need a solution to monitor and analyze energy usage data across all buildings to identify areas for improvement, reduce waste, and ensure reliable and sustainable energy supply.
+The company responsible for supplying energy (water, electricity, and gas) to various buildings across countries is facing challenges in effectively managing and optimizing energy distribution. They lack a comprehensive view of energy consumption patterns, leading to inefficiencies, high costs, and difficulties in meeting sustainability targets. They need a solution to monitor and analyze energy usage data across all buildings to identify areas for improvement, reduce waste, and ensure reliable and sustainable energy supply.
 
 # MY APPROACH
 My human resource analysis was more focused on Diversity and Inclusion in respect to the Gender, Race and Sexuality of the workforce to answer the business question.
