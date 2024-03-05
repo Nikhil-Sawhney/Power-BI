@@ -8,7 +8,7 @@ Over the past 10years, the company has experienced growth based on their increas
 # MY APPROACH
 My human resource analysis was more focused on Diversity and Inclusion in respect to the Gender, Race and Sexuality of the workforce to answer the business question.
 
-#Insights gained from the analysis include:
+# Insights gained from the analysis include:
 -Evidence of a particular race dominating the workforce,
 -Likewise, the male gender dominates other genders,
 -Same pattern was found in the sexuality context within the company as most employees are heterosexuals,
