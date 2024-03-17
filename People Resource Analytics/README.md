@@ -1,15 +1,8 @@
-# Project Title - FitBit Users Data Analysis
-The dataset which contains an excel file containing 24 columns regarding employees information of the company.
+# Problem Statement:
+Over the past decade, our company has experienced significant growth, leading to an increase in the number of employees. Recognizing the importance of understanding our company's culture, acceptance, inclusiveness, and trends in hiring and termination, the management initiated a people analytics project to gain actionable insights and make informed decisions.
 
-# PROBLEM STATEMENT
-Over the past 10years, the company has experienced growth based on their increasing employees, the company's management wanted to gain insight into their company's culture, acceptance and inclusiveness, hiring and termination trend. This led to building a people analytics report.
-
-# Insights gained from the analysis include:
-* Evidence of a particular race dominating the workforce,
-* Likewise, the male gender dominates other genders,
-* Same pattern was found in the sexuality context within the company as most employees are heterosexuals,
-* Furthermore, the female employees and have smaller numbers in the managerial role and are non-existent in the director role compared to the male gender.
-
+# Objective of Analysis:
+The main objective of this analysis was to delve deeply into various aspects such as gender, race, sexuality, diversity, inclusion, hiring trends, and termination patterns within our workforce. By doing so, we aimed to foster a more inclusive, diverse, and equitable workplace environment conducive to growth and productivity.
 
 #  Check out whole Project Explanation in below link 
 ## 🔗 Links
