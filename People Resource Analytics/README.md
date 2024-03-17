@@ -1,4 +1,4 @@
-# Project Title - People Resource Analytics
+# Project Title - FitBit Users Data Analysis
 The dataset which contains an excel file containing 24 columns regarding employees information of the company.
 
 # PROBLEM STATEMENT
