@@ -5,10 +5,10 @@ The dataset contains an excel file containing
 Your company is responsible for supplying energy (water, electricity, and gas) to various buildings across different countries faces the challenge of effectively monitoring and managing energy consumption to ensure efficient operations and cost-effectiveness. However, without a centralized system to track and analyze energy usage data, the company struggles to identify trends, anomalies, and opportunities for improvement, leading to inefficiencies, increased costs, and potential service disruptions.
 
 # My Approach:
-Creating a Dashboard, showing trends of unit consumption with total cost generated from it for different types of energy (water, electricity and gas).
+My approach focused on creating a dynamic dashboard that visualizes trends in unit consumption and total costs for water, electricity, and gas. This involved leveraging Power BI’s capabilities to clean and transform raw data, perform data modeling, create measures using DAX, conduct exploratory data analysis, and utilize various visualizations for the dashboard.
 
 # Process Involved :
-Use of Power Query to clean and transform raw data for analysis.
+*Use of Power Query to clean and transform raw data for analysis.
 * Data Modeling to connect different tables using in power BI.
 * Creating some measures using DAX for the dashboard.
 *Exploratory Data analysis to find patterns and producing insights.
@@ -38,8 +38,6 @@ By delving deeper into the data and exploring these additional aspects, a more c
 4. Continuous Monitoring: Implement a regular monitoring system using the dashboard to track energy trends, identify anomalies, and make data-driven decisions for efficient resource management and cost optimization.
 
 By leveraging the power of data visualization and analysis through Power BI, our project aims to provide actionable insights that drive sustainable energy practices, cost savings, and operational efficiencies across our energy supply operations.
-
-
 
 #  Check out whole Project Explanation in below link 
 ## 🔗 Links
