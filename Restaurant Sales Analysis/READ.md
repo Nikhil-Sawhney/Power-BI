@@ -33,6 +33,6 @@ This analysis provides valuable insights and actionable recommendations for rest
 # Project Links:
 * Dashboard: [Restaurant Sales Analysis Report](https://www.novypro.com/project/restaurant-sales-analysis-report-using-power-bi-power-bi)
 * LinkedIn Profile: [Nikhil Sawhney's LinkedIn](https://www.linkedin.com/in/nikk996/)
-* Medium blog: [Nikhil Sawhney's blogon Medium](https://nks96.medium.com/restaurant-sales-analysis-report-using-power-bi-d0434be7a6a4)
+* Medium blog: [Nikhil Sawhney's blog on Medium](https://nks96.medium.com/restaurant-sales-analysis-report-using-power-bi-d0434be7a6a4)
 
 By leveraging data analytics and visualization tools like Power BI, this project aims to empower restaurant businesses with actionable insights for strategic decision-making and sustainable growth in the dynamic restaurant industry.
