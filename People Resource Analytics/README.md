@@ -12,6 +12,10 @@ The main objective of this analysis was to delve deeply into various aspects suc
 2. Dashboard Design: Created a comprehensive analytics dashboard comprising two sections. The first section focused on demographic insights, inclusiveness, and diversity, while the second section delved into hiring trends and termination patterns.
 3. Key Performance Indicators (KPIs): Employed DAX calculations to derive KPIs such as turnover rate, allowing for a deeper understanding of employee dynamics and organizational trends.
 
+![Peopleresourceanalyticspage-1](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/fd99bdd9-a356-46f9-82a2-01a1891bdb2e)
+
+![Peopleresourceanalyticspage-2](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/8c87a681-8edb-4ee1-a363-c1c94c2e936e)
+
 # Insights Revealed:
 1. Demographics: The data showcased a significant representation of Caucasians in our workforce, possibly influenced by higher education levels among this group.
 2. Inclusiveness: While gender balance was observed at lower job levels, it declined at executive levels, indicating potential areas for improvement in promoting gender diversity in leadership roles.
