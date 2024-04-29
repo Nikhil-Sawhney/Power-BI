@@ -34,5 +34,5 @@ The main objective of this analysis was to delve deeply into various aspects suc
 This people analytics project not only provided valuable insights into our workforce dynamics but also served as a foundation for strategic decision-making aimed at creating a more inclusive, diverse, and equitable workplace culture aligned with our organizational values and goals.
 
 
-# 🔗 Links
-https://nks96.medium.com/people-resource-analytics-dashboard-using-power-bi-7376db0f696f
+# 🔗 Link
+Medium Blog - https://nks96.medium.com/people-resource-analytics-dashboard-using-power-bi-7376db0f696f
