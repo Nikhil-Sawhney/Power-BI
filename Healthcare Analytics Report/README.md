@@ -1,4 +1,5 @@
-Introduction: The Healthcare Data Analysis Dashboard on Power BI offers an in-depth examination of patient health data spanning from 2019 to 2023. Divided into two main sections — “Patient Demographics” and “Clinical Insights” — this report utilizes visualizations and DAX calculations to unveil critical trends and key performance indicators (KPIs), enabling healthcare providers to make informed decisions and optimize patient care strategies.
+Introduction: 
+The Healthcare Data Analysis Dashboard on Power BI offers an in-depth examination of patient health data spanning from 2019 to 2023. Divided into two main sections — “Patient Demographics” and “Clinical Insights” — this report utilizes visualizations and DAX calculations to unveil critical trends and key performance indicators (KPIs), enabling healthcare providers to make informed decisions and optimize patient care strategies.
 
 Data Collection: The dataset comprises various attributes including patient demographics, medical conditions, admission details, and more. It's a synthetic dataset designed for educational and non-commercial use, ensuring privacy and compliance. The data cleaning is done using Microsoft Excel, removing incomplete records and irrelevant columns to enhance analysis accuracy.
 
