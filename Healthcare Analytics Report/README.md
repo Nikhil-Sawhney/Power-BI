@@ -54,7 +54,7 @@ The report calculates average patient satisfaction, offering valuable feedback o
 
 Average billing cost per patient is around $25k with Cancer being the highest of $31k and Asthma being the lowest $23k. This KPI provides insights into the average cost of treatment, which can inform resource allocation decisions and potential cost-saving strategies.
 
-* Additional Considerations:
+# Additional Considerations:
 
 The report also highlights top doctors based on patient ratings, fostering recognition for high performers and potentially boosting patient morale. Furthermore, it identifies medical conditions with the highest readmission rates, prompting a deeper analysis of factors contributing to these occurrences and the development of strategies for reduction.
 
