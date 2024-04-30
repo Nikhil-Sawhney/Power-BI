@@ -17,11 +17,13 @@ The report is structured into two sections for clarity:
 
 Reveals insights into the patient population demographics, including age distribution, gender distribution, and prevalent medical conditions.
 Provides actionable insights for tailoring care approaches to specific patient groups, optimizing resource allocation, and improving overall patient satisfaction.
+![Patient Demographics](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/c6671fb9-e0ef-472d-b2ff-39aefc97ef2e)
 
 2. Clinical Insights:
 
 Unveils critical medical trends and insights, including common admission types, prevalent health concerns, treatment efficacy, and cost management insights.
 Empowers healthcare providers to identify areas for improvement, target interventions, and enhance treatment efficacy while managing costs effectively.
+![Clinical Insights](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/9ca395e8-f7cf-4fc3-a124-40112512a347)
 
 # Core Questions Answered in the Healthcare Analytics Report:
 -Understanding the Patient Population: Provides insights into patient demographics, aiding in tailoring care approaches to specific groups.
@@ -33,5 +35,5 @@ Empowers healthcare providers to identify areas for improvement, target interven
 
 # Conclusion: 
 In conclusion, this Healthcare Data Analysis Dashboard on Power BI provides comprehensive insights into patient health data, empowering healthcare providers to optimize resource allocation, enhance treatment efficacy, improve patient experience, and manage costs effectively. By addressing core questions and leveraging data-driven insights, this report facilitates informed decision-making and enhances overall healthcare delivery
-![Patient Demographics](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/c6671fb9-e0ef-472d-b2ff-39aefc97ef2e)
-![Clinical Insights](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/9ca395e8-f7cf-4fc3-a124-40112512a347)
+
+
