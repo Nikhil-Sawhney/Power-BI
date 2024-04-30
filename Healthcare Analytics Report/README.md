@@ -24,16 +24,14 @@ Unveils critical medical trends and insights, including common admission types, 
 Empowers healthcare providers to identify areas for improvement, target interventions, and enhance treatment efficacy while managing costs effectively.
 
 # Core Questions Answered in the Healthcare Analytics Report:
-Understanding the Patient Population: Provides insights into patient demographics, aiding in tailoring care approaches to specific groups.
-Optimizing Resource Allocation: Analyzes admission types to inform resource allocation decisions for efficient patient care.
-Identifying Prevalent Medical Conditions: Unveils common health concerns to target interventions and preventative measures effectively.
-Enhancing Treatment Efficacy: Analyzes readmission rates to pinpoint areas for improvement and enhance treatment effectiveness.
-Improving Patient Experience: Tracks patient satisfaction to identify areas for improvement and enhance overall patient experience.
-Cost Management Insights: Provides insights into billing costs per patient to inform resource allocation and cost-saving strategies.
+-Understanding the Patient Population: Provides insights into patient demographics, aiding in tailoring care approaches to specific groups.
+-Optimizing Resource Allocation: Analyzes admission types to inform resource allocation decisions for efficient patient care.
+-Identifying Prevalent Medical Conditions: Unveils common health concerns to target interventions and preventative measures effectively.
+-Enhancing Treatment Efficacy: Analyzes readmission rates to pinpoint areas for improvement and enhance treatment effectiveness.
+-Improving Patient Experience: Tracks patient satisfaction to identify areas for improvement and enhance overall patient experience.
+-Cost Management Insights: Provides insights into billing costs per patient to inform resource allocation and cost-saving strategies.
 
-
-
-
-Conclusion: In conclusion, this Healthcare Data Analysis Dashboard on Power BI provides comprehensive insights into patient health data, empowering healthcare providers to optimize resource allocation, enhance treatment efficacy, improve patient experience, and manage costs effectively. By addressing core questions and leveraging data-driven insights, this report facilitates informed decision-making and enhances overall healthcare delivery
+# Conclusion: 
+In conclusion, this Healthcare Data Analysis Dashboard on Power BI provides comprehensive insights into patient health data, empowering healthcare providers to optimize resource allocation, enhance treatment efficacy, improve patient experience, and manage costs effectively. By addressing core questions and leveraging data-driven insights, this report facilitates informed decision-making and enhances overall healthcare delivery
 ![Patient Demographics](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/c6671fb9-e0ef-472d-b2ff-39aefc97ef2e)
 ![Clinical Insights](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/9ca395e8-f7cf-4fc3-a124-40112512a347)
