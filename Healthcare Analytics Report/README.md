@@ -6,9 +6,9 @@ The dataset comprises various attributes including patient demographics, medical
 
 
 # Data Preparation for Analysis using Power BI:
--Creating Separate Tables: A Date table is established to facilitate temporal analysis, linked with the main dataset. Additionally, a “Calculations” table is created for KPI measures.
--Creating Calculated Columns: New calculated columns such as Age Buckets, Readmission Indicator, and Total Stay Duration are generated to facilitate analysis and visualization.
--Creating Measurements for KPIs: Various KPIs are calculated using DAX expressions, including Readmission Count, Readmission Rate, and other pertinent metrics.
+* Creating Separate Tables: A Date table is established to facilitate temporal analysis, linked with the main dataset. Additionally, a “Calculations” table is created for KPI measures.
+* Creating Calculated Columns: New calculated columns such as Age Buckets, Readmission Indicator, and Total Stay Duration are generated to facilitate analysis and visualization.
+*Creating Measurements for KPIs: Various KPIs are calculated using DAX expressions, including Readmission Count, Readmission Rate, and other pertinent metrics.
 
 # Analysis and Visualizations for the Report: 
 The report is structured into two sections for clarity:
@@ -30,15 +30,15 @@ Empowers healthcare providers to identify areas for improvement, target interven
 # Core Questions Answered in the Healthcare Analytics Report:
 -Understanding the Patient Population: Provides insights into patient demographics, aiding in tailoring care approaches to specific groups.
 
--Optimizing Resource Allocation: Analyzes admission types to inform resource allocation decisions for efficient patient care.
+* Optimizing Resource Allocation: Analyzes admission types to inform resource allocation decisions for efficient patient care.
 
--Identifying Prevalent Medical Conditions: Unveils common health concerns to target interventions and preventative measures effectively.
+* Identifying Prevalent Medical Conditions: Unveils common health concerns to target interventions and preventative measures effectively.
 
--Enhancing Treatment Efficacy: Analyzes readmission rates to pinpoint areas for improvement and enhance treatment effectiveness.
+* Enhancing Treatment Efficacy: Analyzes readmission rates to pinpoint areas for improvement and enhance treatment effectiveness.
 
--Improving Patient Experience: Tracks patient satisfaction to identify areas for improvement and enhance overall patient experience.
+* Improving Patient Experience: Tracks patient satisfaction to identify areas for improvement and enhance overall patient experience.
 
--Cost Management Insights: Provides insights into billing costs per patient to inform resource allocation and cost-saving strategies.
+* Cost Management Insights: Provides insights into billing costs per patient to inform resource allocation and cost-saving strategies.
 
 # Conclusion: 
 In conclusion, this Healthcare Data Analysis Dashboard on Power BI provides comprehensive insights into patient health data, empowering healthcare providers to optimize resource allocation, enhance treatment efficacy, improve patient experience, and manage costs effectively. By addressing core questions and leveraging data-driven insights, this report facilitates informed decision-making and enhances overall healthcare delivery
