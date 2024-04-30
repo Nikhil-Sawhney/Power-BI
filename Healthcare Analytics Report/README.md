@@ -28,8 +28,8 @@ Empowers healthcare providers to identify areas for improvement, target interven
 ![Clinical Insights](https://github.com/Nikhil-Sawhney/Power-BI/assets/134135837/9ca395e8-f7cf-4fc3-a124-40112512a347)
 
 # Core Questions Answered in the Healthcare Analytics Report:
--Understanding the Patient Population: Provides insights into patient demographics, aiding in tailoring care approaches to specific groups.
 
+* Understanding the Patient Population: Provides insights into patient demographics, aiding in tailoring care approaches to specific groups.
 * Optimizing Resource Allocation: Analyzes admission types to inform resource allocation decisions for efficient patient care.
 * Identifying Prevalent Medical Conditions: Unveils common health concerns to target interventions and preventative measures effectively.
 * Enhancing Treatment Efficacy: Analyzes readmission rates to pinpoint areas for improvement and enhance treatment effectiveness.
