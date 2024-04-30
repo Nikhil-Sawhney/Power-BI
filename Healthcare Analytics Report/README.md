@@ -10,7 +10,8 @@ The dataset comprises various attributes including patient demographics, medical
 -Creating Calculated Columns: New calculated columns such as Age Buckets, Readmission Indicator, and Total Stay Duration are generated to facilitate analysis and visualization.
 -Creating Measurements for KPIs: Various KPIs are calculated using DAX expressions, including Readmission Count, Readmission Rate, and other pertinent metrics.
 
-# Analysis and Visualizations for the Report: The report is structured into two sections for clarity:
+# Analysis and Visualizations for the Report: 
+The report is structured into two sections for clarity:
 
 1. Patients Demographics:
 
