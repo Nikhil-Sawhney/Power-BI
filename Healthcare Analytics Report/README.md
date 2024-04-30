@@ -30,33 +30,26 @@ Empowers healthcare providers to identify areas for improvement, target interven
 # Core Questions Answered in the Healthcare Analytics Report:
 This Power BI report provides a comprehensive analysis of patient health data, empowering healthcare providers with data-driven insights to optimize patient care. By leveraging DAX calculations and data visualizations, the report tackles critical questions regarding the patient population and recent medical trends within the specified timeframe (October 2018 — December 2023).
 
-* Understanding the Patient Population:
 - Who are our patients? 
 
 The report delves into the demographics of admitted patients, uncovering insights into age distribution, blood group distribution (by gender), and the total number of patients treated. Most of the patient that were admitted were “Adults” and “Elderly” i.e. >35 with having greater Female count among patients by some percentage (55% Female and 45% Male). This information helps tailor care approaches to specific patient populations.
 
-* Optimizing Resource Allocation:
-
 - What are the most common admission types?
 
 Analyzing the distribution of admissions by type (emergency, urgent, elective) reveals trends in patient acuity and resource utilization. Major portion of Admission type is “Emergency” type (around 40%). This knowledge allows for informed decisions regarding resource allocation to best serve incoming patients.
-Identifying Prevalent Medical Conditions:
 
 - What are the top health concerns affecting our patients?
 
 Among patients, the most common health concerns are Jaundice, Diarrhea, and Tuberculosis. Diarrhea is most common among young adults (18–35), arthritis is most common among adults (>35–65), and most cases of cancer occur in the elderly (>65). By identifying the most prevalent medical conditions during this period, the report empowers healthcare providers to target interventions and preventative measures for those specific conditions.
 
-* Enhancing Treatment Efficacy:
 - How effective are our current treatment plans?
 
 Average Readmission rate is 11% with highest admission-readmission ratio in the month of June, November and December. Patients suffering from Tuberculosis has the highest readmission rate. By analyzing readmission rates by condition or month, areas needing improvement can be pinpointed to enhance treatment efficacy and potentially reduce readmissions.
 
-* Improving Patient Experience:
 - How satisfied are our patients?
 
 The report calculates average patient satisfaction, offering valuable feedback on the patient experience. The Average rating is 3.1/5 remains constant in every year from 2019–23. Highest average Rating comes from “Jaundice” Patients and lowest from “Arthritis”. Tracking changes in satisfaction over time allows for targeted initiatives to improve the overall patient experience.
 
-* Cost Management Insights:
 - What is the average billing cost per patient?
 
 Average billing cost per patient is around $25k with Cancer being the highest of $31k and Asthma being the lowest $23k. This KPI provides insights into the average cost of treatment, which can inform resource allocation decisions and potential cost-saving strategies.
