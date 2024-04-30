@@ -1,46 +1,31 @@
-# Project Title - Energy Consumption Dashbaord
-The dataset contains an excel file containing 
+This project tackles the challenge of optimizing energy consumption for a company supplying water, electricity, and gas across diverse locations. I leveraged the power of Power BI to create an interactive dashboard, empowering informed decision-making and driving sustainable energy practices.
 
-# Problem Statement:
-Your company is responsible for supplying energy (water, electricity, and gas) to various buildings across different countries faces the challenge of effectively monitoring and managing energy consumption to ensure efficient operations and cost-effectiveness. However, without a centralized system to track and analyze energy usage data, the company struggles to identify trends, anomalies, and opportunities for improvement, leading to inefficiencies, increased costs, and potential service disruptions.
+# Key Challenges:
+* Effectively monitor and manage energy consumption across various building types and locations.
+* Identify trends, anomalies, and opportunities for improvement in energy usage.
+* Ensure efficient operations and cost-effectiveness for energy resources.
 
-# My Approach:
-My approach focused on creating a dynamic dashboard that visualizes trends in unit consumption and total costs for water, electricity, and gas. This involved leveraging Power BI’s capabilities to clean and transform raw data, perform data modeling, create measures using DAX, conduct exploratory data analysis, and utilize various visualizations for the dashboard.
+# My Solution:
+I designed a comprehensive Power BI dashboard featuring dedicated sections for water, electricity, and gas. Each section provides a deep dive into:
+* Consumption Patterns: Analyzed usage trends across buildings and timeframes to identify potential outliers and seasonal variations. For instance, water consumption might spike during summer months, prompting investigation into irrigation practices or leak detection efforts.
+* Cost Analysis: Tracked yearly costs and identified areas for potential savings. Explored cost breakdowns by energy type and building to pinpoint areas with the highest spending. This could reveal opportunities for energy-efficient upgrades or negotiations with suppliers.
+* Interactive Features: Leveraged slicers and filters for user-driven exploration. Empowered users to compare consumption patterns across different building types, locations, and timeframes. This allowed for targeted analysis and identification of buildings with consistently high consumption rates.
 
-# Process Involved :
-*Use of Power Query to clean and transform raw data for analysis.
-* Data Modeling to connect different tables using in power BI.
-* Creating some measures using DAX for the dashboard.
-*Exploratory Data analysis to find patterns and producing insights.
-*Use of different visualizations to create a dashboard.
+ # Technical Skills:
+* Power Query: Utilized Power Query's robust data cleansing and transformation capabilities to extract, clean, and transform raw data from separate tables into a unified and usable format for seamless analysis. This ensured data accuracy and consistency for reliable insights.
+* Data Modeling: Established relationships between tables using relevant columns to create a well-structured data model. This facilitated efficient data exploration and minimized the risk of errors in calculations and visualizations.
+* DAX Measures: Created custom DAX measures to calculate key performance indicators (KPIs) critical for energy analysis. These included total cost, unit consumption by energy type, percentage breakdowns, and efficiency ratios like cost per unit consumed. My ability to write DAX formulas allowed me to tailor the data to the specific needs of the project and generate meaningful insights.
+* Data Visualization: Designed interactive charts and graphs using Power BI's visualization tools to communicate complex energy consumption data in a clear and concise way. I employed conditional formatting strategically to highlight anomalies and areas requiring further investigation, drawing the user's attention to critical information.
 
-# Insights :
-1. Water is the dominant resource used, but the cost remains stable despite fluctuations in consumption:
-Water consumption accounts for a significant portion (88.49%) of the total energy use. While water consumption fluctuates across years, with 2017 having the highest usage, the overall cost shows only a slight increase in 2019 compared to previous years. This suggests potential opportunities for conservation efforts to reduce water use without significantly impacting the budget.
+# Actionable Results:
+*Water as the Dominant Resource: Identified water as the dominant resource, accounting for 88.49% of total energy consumption. While water consumption fluctuated across years, the overall cost remained stable. This suggests potential for conservation efforts without significantly impacting the budget. I can explore installing low-flow fixtures, implementing rainwater harvesting systems, or launching awareness campaigns to encourage water-saving practices.
+* Decreasing Gas Consumption and Costs: Discovered a downward trend in gas consumption and costs from 2016 to 2019. This positive development necessitated further investigation. Potential explanations include:
+* Policy Changes: Investigated any company-wide initiatives or policy changes promoting energy efficiency, such as switching to LED lighting or upgrading appliances.
+* Infrastructure Upgrades: Analyzed any building renovations or infrastructure upgrades that might have improved energy efficiency, such as better insulation or more efficient heating systems.
+* Alternative Energy Sources: Examined if the company shifted towards alternative energy sources for gas-powered activities, such as solar panels or renewable energy sources.
+* Need for Additional Data Points: The analysis revealed the need for additional data points like building types and locations for a more holistic understanding. By incorporating these details, I can:
+* Benchmarking: Compare energy consumption patterns of similar building types (e.g., office buildings vs. residential buildings) to identify areas for improvement within each category.
+* Location Analysis: Analyze energy consumption by geographic location to identify potential correlations with weather patterns or regional infrastructure differences. This could inform targeted conservation strategies for specific regions.
 
-2. Gas consumption and costs show a downward trend:
-Gas consumption is the lowest compared to water and electricity but has significantly decreased from 2016 to 2019.
-This decrease is reflected in the gas cost, which also shows a downward trend during the same period. This could be due to various factors, such as increased efficiency measures or a shift towards alternative energy sources for gas-powered activities.
-
-3. Further analysis is needed to understand the factors behind these trends:
-While the water consumption data includes a breakdown by building, additional context like building types or activities could offer deeper insights into usage patterns.
-Similarly, understanding the reasons behind the decrease in gas consumption and cost would require further information, such as specific policy changes or infrastructure upgrades.
-
-4. Additional insights can be gained by analyzing other aspects not shown in these images:
-Comparing energy consumption and costs across different locations (e.g., cities, regions) could reveal valuable insights into potential efficiency improvements or resource allocation needs.
-Analyzing the data by time of day or day of the week could help identify peak usage periods and potential areas for targeted conservation efforts.
-By delving deeper into the data and exploring these additional aspects, a more comprehensive picture of the energy consumption patterns can be established, leading to more informed decision-making towards efficient resource management and cost optimization.
-
-# Recommendations:
-1. Conservation Strategies: Implement targeted conservation measures based on insights from the dashboard to reduce water consumption and associated costs.
-2. Efficiency Measures: Investigate factors behind gas consumption decreases and explore opportunities for further efficiency improvements.
-3. Enhanced Data Analysis: Expand analysis to include factors like building types, locations, and time periods for a more comprehensive understanding of energy consumption patterns.
-4. Continuous Monitoring: Implement a regular monitoring system using the dashboard to track energy trends, identify anomalies, and make data-driven decisions for efficient resource management and cost optimization.
-
-By leveraging the power of data visualization and analysis through Power BI, our project aims to provide actionable insights that drive sustainable energy practices, cost savings, and operational efficiencies across our energy supply operations.
-
-#  Check out whole Project Explanation in below link 
-## 🔗 Links
-https://nks96.medium.com/energy-consumption-dashboard-using-power-bi-8d62b2c018e1
-
-
+# Impact:
+This project empowers the company to make data-driven decisions that promote sustainable energy practices, optimize resource allocation, and achieve cost savings. By leveraging the power of Power BI and my data analysis skills, I can pave the way for a more sustainable future.
